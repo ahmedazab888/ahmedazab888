@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedazab888
 - 👀 I’m interested in web desgin
 - 🌱 I’m currently learning HTML - CSS - Bootstrap - Javascript - React
-- 💞️ I’m looking to collaborate on web desgin projects
+- 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me @a_nasr@utb.cz
 
 <!---
