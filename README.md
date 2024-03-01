@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmedazab888
 - 👀 I’m interested in web desgin
-- 🌱 I’m currently learning HTML - CSS - Bootstrap - Javascript - React
+- 🌱 I’m currently learning HTML - CSS - Bootstrap - Javascript
 - 💞️ I’m looking to collaborate on web design projects
-- 📫 How to reach me @a_nasr@utb.cz
+- 📫 How to reach me @ahmed.mostafa.azab@gmail.com
 
 <!---
 ahmedazab888/ahmedazab888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
