@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedazab888
-- 👀 I’m interested in web desgin
-- 🌱 I’m currently learning HTML - CSS - Bootstrap - Javascript
+- 👀 I’m interested in web development
+- 🌱 I have a good experience in HTML - CSS - Bootstrap - Javascript
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me @ahmed.mostafa.azab@gmail.com
 
